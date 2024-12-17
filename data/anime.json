@@ -1,0 +1,32 @@
+{
+    "1": {
+        "nombre": "Dragon Ball",
+        "genero": "Shonen",
+        "año": "1986",
+        "autor": "Akira Toriyama"
+    },
+    "2": {
+        "nombre": "Naruto",
+        "genero": "Shonen",
+        "año": "2002",
+        "autor": "Masashi Kishimoto"
+    },
+    "3": {
+        "nombre": "Neon Genesis Evangelion",
+        "genero": "Mecha",
+        "año": "1995",
+        "autor": "Yoshiyuki Sadamoto"
+    },
+    "4": {
+        "nombre": "One Piece",
+        "genero": "Shonen",
+        "año": "1998",
+        "autor": "Eiichiro Oda"
+    },
+    "5": {
+        "nombre": "Akira",
+        "genero": "Seinen",
+        "año": "1988",
+        "autor": "Katsuhiro Otomo"
+    }
+}
